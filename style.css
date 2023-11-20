@@ -1,0 +1,15 @@
+body{
+    background-color: teal;
+    color: aliceblue;
+    margin-left: 50px;
+    font-family: cursive;
+}
+
+
+button{
+    margin-left: 250px;
+}
+
+.a{
+    border: solid white
+}
